@@ -12,7 +12,7 @@ const CarSearch = () => {
   };
   return (
     <div className="list-header">
-      <h3 className="title is-3"></h3>
+      <h3 className="title is-3">My Cars</h3>
       <div className="search filed is-horizontal">
         <label className="label">Search</label>
         <input
